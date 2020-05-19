@@ -2,7 +2,7 @@
 
 **Many developer conferences exist, but only few worth attending.**
 
-To save your time, I compiled a list of developer conferences which my colleagues and I have attended. Then we gave each conference a rating from `A+` (the best, go) to `F-` (the worst).
+To save your time, I compiled a list of developer conferences which my colleagues and I have attended. Then we gave each conference a rating from `A+` (the best) to `F-` (the worst).
 
 Our formula: `Rating = ❶ Content + ❷ Organization + ❸ Location.` 
 
