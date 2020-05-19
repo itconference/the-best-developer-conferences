@@ -1,4 +1,4 @@
-# The best developer conferences
+# The best developer conferences with ratings
 
 **Finding a good developer conference takes forever, because there are too many of them.** To simplify your life, I compiled a list of developer conferences that I personally attended. Because some them were really good and others total crap, I put each conference a rating from `A` (the best) to `F` (the worst). Enjoy!
 
