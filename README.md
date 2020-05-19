@@ -1,6 +1,4 @@
-# The best developer conferences of 2020 and 2021.
-
-
+# Developer conferences of 2020 and 2021 with ratings
 
 **Finding a good developer conference takes forever, because there are too many of them.** 
 
