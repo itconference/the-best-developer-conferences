@@ -1,6 +1,6 @@
 # The best developer conferences of 2020
 
-**Finding a good developer conference can take forever.** To save your time, I compiled a list of developer conferences that I have attended and gave each conference a rating from `A+` (the best) to `F-` (the worst). Enjoy!
+**Finding a good developer conference can take forever.** To save your time, I compiled a list of developer conferences that I have attended and gave each conference a rating from `A+` (the best) to `F-` (the worst).
 
 The list has been updated in `2020`.
 
