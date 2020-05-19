@@ -1,6 +1,6 @@
 # The best developer conferences of 2020
 
-**Many developer conferences exist, but only some are actually good.**
+**Many developer conferences exist, but only few worth attending.**
 
 To save your time, I compiled a list of developer conferences which my team and I have attended. Then we gave each conference a rating from A+ (the best) to F- (the worst).
 
