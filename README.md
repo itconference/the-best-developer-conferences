@@ -1,4 +1,4 @@
-# 10 best developer conferences of 2020
+# 10 best developer conferences [2020 edition]
 
 **Finding a good developer conference takes forever, because there are too many of them.** 
 
