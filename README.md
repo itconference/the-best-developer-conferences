@@ -1,11 +1,10 @@
-# Developer conferences of 2020 and 2021 with ratings
+# 10 best developer conferences of 2020
 
 **Finding a good developer conference takes forever, because there are too many of them.** 
 
 To simplify your life, I compiled a list of developer conferences that I personally attended. Because some them were really good and others total crap, I put each conference a rating from `A+` (the best) to `F-` (the worst). Enjoy!
 
 The list has been updated in `2020`.
-
 
 
 | Rating | Topic | Name        | Location        | Date            | Price      | Link |
