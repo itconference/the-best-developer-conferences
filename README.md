@@ -1,4 +1,4 @@
-# The best developer conferences of 2020
+# Developer conferences of 2020 with ratings
 
 <img src="icon.jpg" />
 
