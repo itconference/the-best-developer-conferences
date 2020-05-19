@@ -1,6 +1,6 @@
 # The best developer conferences of 2020 with ratings
 
-<img src="smile.png" />
+<img src="smile.png" width="500px" />
 
 **Many developer conferences exist, but only few worth attending.**
 
